@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-chart.js": "^1.1.1",
+    "body-parser": "~1.13.2",
+    "eureka-js-client": "^4.3.0",
+    "express": "3.3.x",
+    "method-override": "^2.1.2",
+    "mongoose": "*",
+    "mongoose-middleware": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
